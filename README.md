@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 # kisan_library
+=======
+# KISAN_lIBRARRY
+>>>>>>> a8de666e4433db0befa32bea82c24dd94adda1b7
 
 
 
@@ -15,14 +19,22 @@ Already a pro? Just edit this README.md and make it your own. Want to make it ea
 
 ```
 cd existing_repo
+<<<<<<< HEAD
 git remote add origin https://gitlab.com/shandumandu-group/prototypes_for_us/react_js/demo/kisan_library.git
+=======
+git remote add origin https://gitlab.com/balram-Mahato/kisan_librarry.git
+>>>>>>> a8de666e4433db0befa32bea82c24dd94adda1b7
 git branch -M main
 git push -uf origin main
 ```
 
 ## Integrate with your tools
 
+<<<<<<< HEAD
 * [Set up project integrations](https://gitlab.com/shandumandu-group/prototypes_for_us/react_js/demo/kisan_library/-/settings/integrations)
+=======
+* [Set up project integrations](https://gitlab.com/balram-Mahato/kisan_librarry/-/settings/integrations)
+>>>>>>> a8de666e4433db0befa32bea82c24dd94adda1b7
 
 ## Collaborate with your team
 
