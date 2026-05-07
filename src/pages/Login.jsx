@@ -7,7 +7,7 @@ import { FaHandsClapping } from "react-icons/fa6";
 import { MdAlternateEmail } from "react-icons/md";
 import { TbLockPassword } from "react-icons/tb";
 import { BiHide } from "react-icons/bi";
-import Dragon from "../assets/Dragons.png";
+import Dragon from "../assets/dragons.png";
 import { Loader } from "./Loader";
 import { inputWrapper, inputBase, iconBase, submitBtn } from "../styles/ui";
 
